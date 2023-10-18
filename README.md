@@ -18,7 +18,7 @@ DICCIONARIO
 -Estadia: la duracion de la estadia.
 -HorarioDelVuelo: los hs de salida de los vuelos.
 -DiaDelVuelo: los dias dela semana de salida de los vuelos.
--Ruta: 
+-Ruta: Codigo Iata de aeropúertos.
 -OrigenReserva: Pais desde donde se hace la reserva
 -EquipajeExtra: eleccion de equipaje extra porparte de lospasajeros.
 -QuiereComidaEnVuelo: si desea comida en el vuelo.
